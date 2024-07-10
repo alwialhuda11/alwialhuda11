@@ -7,7 +7,4 @@
 <a href="https://twitter.com/makanbitcoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="makanbitcoin" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alwialhuda11)](https://git.io/streak-stats)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alwialhuda11&" alt="alwialhuda11" /></p>
